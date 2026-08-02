@@ -1,0 +1,34 @@
+# ── Secrets & credentials — TUYỆT ĐỐI không commit ──────────────────
+.env
+.env.*
+*.env
+
+# ── Python ────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+erp42_env/
+venv/
+*.egg-info/
+
+# ── Data & logs — chứa dữ liệu thật của ibes, không đưa lên repo ────
+data/
+logs/
+*.db
+*.sqlite
+*.sqlite3
+
+# ── Vector DB / ChromaDB persisted index ─────────────────────────────
+chroma_db/
+*.chroma/
+
+# ── Output files từ batch test runner ────────────────────────────────
+batch_results_*.csv
+batch_results_*.json
+batch_summary_*.txt
+
+# ── OS/Editor junk ────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,47 @@
+id,question,language,category
+PT1-001,Wie viele Kunden sind aktuell aktiv?,de,Master Data
+PT1-002,Bei welchen 5 Lieferanten wurde im letzten Quartal am meisten eingekauft?,de,Master Data
+PT1-003,Welche Kunden werden von Mitarbeiter Neumann Carsten betreut?,de,Master Data
+PT1-004,Welche Kunden haben in den letzten 12 Monaten Artikel aus der Warengruppe Untergruppe Bildschirm gekauft?,de,Master Data
+PT1-005,How many customers are currently active?,en,Master Data
+PT1-006,Which customers have agreed to direct debit as their payment term?,en,Master Data
+PT1-007,Which 20 customers generated the highest revenue during the period from Feb 2022 to May 2024?,en,Master Data
+PT1-008,Which customers are managed by employee Neumann Carsten?,en,Master Data
+PT1-009,Which customers purchased the item 000007?,en,Master Data
+PT1-010,Wie hoch ist der aktuelle Lagerbestand des Artikels Bio Jasmin Tee 250 gr?,de,Items/Inventory
+PT1-011,Erstelle eine Liste aller Warengruppen mit dem kumulierten Umsatz und Rohertrag im letzten Kalenderjahr.,de,Items/Inventory
+PT1-012,Welche Seriennummern sind aktuell für Artikel Bio Minze Tee 250 gr. im Lager verfügbar?,de,Items/Inventory
+PT1-013,Create a list of all product groups with their cumulative revenue and gross profit for the last calendar year.,en,Items/Inventory
+PT1-014,What is the current inventory level of item Bio Jasmin Tee 250 gr?,en,Items/Inventory
+PT1-015,When was item 24 Zoll Monitor Full-HD last sold and to which customer?,en,Items/Inventory
+PT1-016,Which serial numbers are currently available in stock for item Bio Minze Tee 250 gr.?,en,Items/Inventory
+PT1-017,What is the total value of all items in stock that belong to item group Elektronik?,en,Items/Inventory
+PT1-018,Zeige mir alle offenen Aufträge des Kunden Dieckmann.,de,Sales
+PT1-019,"Erstelle mir eine Übersicht, wie viele Rechnungen in den letzten 12 Monaten pro Monat erstellt wurden.",de,Sales
+PT1-020,"Zeige mir alle offenen Aufträge, deren Wunschtermin bereits überschritten ist.",de,Sales
+PT1-021,Create a monthly overview showing how many invoices were issued during the last 12 months.,en,Sales
+PT1-022,Show all open orders whose requested delivery date has already passed.,en,Sales
+PT1-023,Welche Artikel sind bereits bestellt aber noch nicht geliefert?,de,Purchasing
+PT1-024,Zu welchen Wareneingängen ist noch keine Eingangsrechnung erfasst worden?,de,Purchasing
+PT1-025,Wie hoch ist der Wert der im letzten Monat eingekauften Artikel?,de,Purchasing
+PT1-026,Welche Artikel haben einen negativen Bestand?,de,Purchasing
+PT1-027,Bei welchem Lieferanten habe ich Artikel Bio Minze Tee 250 gr. zuletzt bestellt?,de,Purchasing
+PT1-028,Which items have been ordered but not yet delivered?,en,Purchasing
+PT1-029,For which goods receipts has no supplier invoice been recorded yet?,en,Purchasing
+PT1-030,What is the value of the items purchased last month?,en,Purchasing
+PT1-031,How many units of item Bio Minze Tee 250 gr. have been sold since the last goods receipt?,en,Purchasing
+PT1-032,Do I need to reorder item 24 Zoll Monitor Full-HD?,en,Purchasing
+PT1-033,From which supplier did I most recently order item Bio Minze Tee 250 gr.?,en,Purchasing
+PT1-034,Which supplier offered item Bio Jasmin Tee 250 gr at the lowest price during the last 6 months?,en,Purchasing
+PT1-035,Mit welchen 10 Artikeln wurde im Zeitraum von 02/2021 bis 08/2023 der meiste Umsatz gemacht?,de,Reports
+PT1-036,Was sind die am häufigsten verkauften Artikel in der Artikelgruppe Lebensmittel?,de,Reports
+PT1-037,Wie hoch ist der Rohgewinn pro Kostenstelle im letzten Monat?,de,Reports
+PT1-038,What was the monthly revenue in the current fiscal year? Our fiscal year starts in April and ends in March.,en,Reports
+PT1-039,What was the gross profit per cost center last month?,en,Reports
+PT1-040,Which items are sold most frequently within item group Lebensmittel?,en,Reports
+PT1-041,Welcher Mitarbeiter hat zuletzt beim Kunden Fa. Lenz AG Leistungen erbracht?,de,Services
+PT1-042,Wurden alle fakturierbaren Leistungen für Kunden Fa. Lenz AG im Monat Dezember 2024 bereits abgerechnet?,de,Services
+PT1-043,Which employee most recently provided services to customer Fa. Lenz AG?,en,Services
+PT1-044,How many billable service hours were provided for customer Fa. Lenz AG in the month of December 2024?,en,Services
+PT1-045,Have all billable services provided for customer Fa. Lenz AG in the month of December 2024 already been invoiced?,en,Services
+PT1-046,Are there any billable services for customer Fa. Eggers GmbH & Co. KG that have not yet been invoiced?,en,Services

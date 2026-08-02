@@ -1,0 +1,11 @@
+id,question,language,category
+Q001,"Wie viele Aufträge haben wir?",de,simple_count
+Q002,"Wie viele Kunden haben wir?",de,simple_count
+Q003,"Zeige alle Lieferanten",de,simple_list
+Q004,"Gesamtumsatz im Jahr 2023",de,aggregation
+Q005,"Wer sind die Top 5 Kunden nach Umsatz?",de,ranking
+Q006,"How many orders do we have?",en,simple_count
+Q007,"How many customers do we have?",en,simple_count
+Q008,"Show all suppliers",en,simple_list
+Q009,"Total revenue in 2023",en,aggregation
+Q010,"Who are the top 5 customers by revenue?",en,ranking

@@ -1,0 +1,22 @@
+# ERP42 Natural Language Analytics — Phase 1
+# Install: pip install -r requirements.txt
+
+# Core
+gradio>=4.0.0
+ollama>=0.1.0
+
+# Database
+sqlalchemy>=2.0.0
+pyodbc>=4.0.0
+
+# Vector store
+chromadb>=0.5.0
+
+# SQL parsing
+sql-metadata>=2.0.0
+sqlparse>=0.4.0
+
+# Utilities
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+psutil

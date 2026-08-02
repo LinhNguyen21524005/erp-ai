@@ -1,0 +1,101 @@
+id,question,language,category
+Q001,"Wie viele Aufträge haben wir?",de,simple_count
+Q002,"Wie viele Kunden haben wir?",de,simple_count
+Q003,"Wie viele Lieferanten gibt es?",de,simple_count
+Q004,"Wie viele Rechnungen wurden erstellt?",de,simple_count
+Q005,"Wie viele Projekte gibt es?",de,simple_count
+Q006,"Wie viele Mitarbeiter haben wir?",de,simple_count
+Q007,"Wie viele Artikel gibt es im Lager?",de,simple_count
+Q008,"Wie viele Bestellungen wurden aufgegeben?",de,simple_count
+Q009,"Wie viele Angebote wurden erstellt?",de,simple_count
+Q010,"Wie viele Buchungen gibt es in der Buchhaltung?",de,simple_count
+Q011,"Zeige alle Lieferanten",de,simple_list
+Q012,"Zeige alle Kunden aus Deutschland",de,simple_list
+Q013,"Zeige alle Projekte",de,simple_list
+Q014,"Zeige alle Mitarbeiter",de,simple_list
+Q015,"Zeige alle Artikel im Lager",de,simple_list
+Q016,"Liste alle offenen Aufträge auf",de,simple_list
+Q017,"Zeige alle Kunden aus Österreich",de,simple_list
+Q018,"Zeige alle Rechnungen aus dem Jahr 2023",de,simple_list
+Q019,"Zeige alle Kunden mit der Branche Handel",de,simple_list
+Q020,"Zeige alle Bestellungen bei Lieferant 000001",de,simple_list
+Q021,"Gesamtumsatz im Jahr 2023",de,aggregation
+Q022,"Gesamtumsatz im Jahr 2024",de,aggregation
+Q023,"Was ist der durchschnittliche Auftragswert?",de,aggregation
+Q024,"Wie hoch ist der Gesamtumsatz aller Rechnungen?",de,aggregation
+Q025,"Was ist der Gesamtwert aller Bestellungen?",de,aggregation
+Q026,"Wie viele Aufträge hat jeder Kunde?",de,aggregation
+Q027,"Was ist der durchschnittliche Rechnungsbetrag?",de,aggregation
+Q028,"Wie hoch ist der Gesamtwert aller Angebote?",de,aggregation
+Q029,"Was ist der durchschnittliche Bestellwert pro Lieferant?",de,aggregation
+Q030,"Wie viele Artikel gibt es pro Warengruppe?",de,aggregation
+Q031,"Wer sind die Top 5 Kunden nach Umsatz?",de,ranking
+Q032,"Welche 10 Aufträge haben den höchsten Umsatz?",de,ranking
+Q033,"Welcher Lieferant hat die meisten Bestellungen?",de,ranking
+Q034,"Wer sind die Top 3 Mitarbeiter nach Anzahl Aufträge?",de,ranking
+Q035,"Welches Projekt hat das größte Budget?",de,ranking
+Q036,"Welche 5 Kunden haben am wenigsten bestellt?",de,ranking
+Q037,"Welcher Artikel hat den höchsten Verkaufspreis?",de,ranking
+Q038,"Top 10 Rechnungen nach Betrag",de,ranking
+Q039,"Welcher Kunde hat die meisten Rechnungen erhalten?",de,ranking
+Q040,"Die 5 günstigsten Artikel im Lager",de,ranking
+Q041,"Die 10 umsatzstärksten Aufträge mit Kundeninformationen",de,multi_join
+Q042,"Zeige alle Bestellungen mit Lieferanteninformationen",de,multi_join
+Q043,"Zeige alle Aufträge mit Kunden- und Mitarbeiterinformationen",de,multi_join
+Q044,"Zeige alle Projekte mit den zugehörigen Kunden",de,multi_join
+Q045,"Zeige Rechnungen mit Kundennamen und Land",de,multi_join
+Q046,"Welche Kunden haben Aufträge über 5000 Euro mit Rabatt?",de,multi_join
+Q047,"Zeige Bestellungen mit Lieferant und Liefertermin",de,multi_join
+Q048,"Vergleiche Umsatz 2023 mit Umsatz 2024",de,time_comparison
+Q049,"Gesamtumsatz im ersten Quartal 2023",de,time_based
+Q050,"Wie viele Aufträge wurden im letzten Monat erstellt?",de,time_based
+Q051,"Show me a list of all employees",en,simple_list
+Q052,"How many customers do we have?",en,simple_count
+Q053,"How many suppliers are there?",en,simple_count
+Q054,"How many invoices were created?",en,simple_count
+Q055,"How many projects exist?",en,simple_count
+Q056,"How many employees do we have?",en,simple_count
+Q057,"How many items are in the warehouse?",en,simple_count
+Q058,"How many purchase orders were placed?",en,simple_count
+Q059,"How many quotations were created?",en,simple_count
+Q060,"How many bookings are in the accounting ledger?",en,simple_count
+Q061,"Show all suppliers",en,simple_list
+Q062,"Show all customers from Germany",en,simple_list
+Q063,"Show all projects",en,simple_list
+Q064,"List all open orders",en,simple_list
+Q065,"Show all items in the warehouse",en,simple_list
+Q066,"Show all customers from Austria",en,simple_list
+Q067,"Show all invoices from 2023",en,simple_list
+Q068,"Show all customers in the retail industry",en,simple_list
+Q069,"Show all purchase orders from supplier 000001",en,simple_list
+Q070,"List all suppliers with their contact information",en,simple_list
+Q071,"Total revenue in 2023",en,aggregation
+Q072,"Total revenue in 2024",en,aggregation
+Q073,"What is the average order value?",en,aggregation
+Q074,"What is the total amount of all invoices?",en,aggregation
+Q075,"What is the total value of all purchase orders?",en,aggregation
+Q076,"How many orders does each customer have?",en,aggregation
+Q077,"What is the average invoice amount?",en,aggregation
+Q078,"What is the total value of all quotations?",en,aggregation
+Q079,"What is the average purchase order value per supplier?",en,aggregation
+Q080,"How many items are there per product category?",en,aggregation
+Q081,"Who are the top 5 customers by revenue?",en,ranking
+Q082,"Which 10 orders have the highest revenue?",en,ranking
+Q083,"Which supplier has the most purchase orders?",en,ranking
+Q084,"Who are the top 3 employees by number of orders?",en,ranking
+Q085,"Which project has the biggest budget?",en,ranking
+Q086,"Which 5 customers have ordered the least?",en,ranking
+Q087,"Which item has the highest sales price?",en,ranking
+Q088,"Top 10 invoices by amount",en,ranking
+Q089,"Which customer received the most invoices?",en,ranking
+Q090,"The 5 cheapest items in the warehouse",en,ranking
+Q091,"The 10 highest-revenue orders with customer information",en,multi_join
+Q092,"Show all purchase orders with supplier information",en,multi_join
+Q093,"Show all orders with customer and employee information",en,multi_join
+Q094,"Show all projects with their associated customers",en,multi_join
+Q095,"Show invoices with customer name and country",en,multi_join
+Q096,"Which customers have orders over 5000 euros with a discount?",en,multi_join
+Q097,"Show purchase orders with supplier and delivery date",en,multi_join
+Q098,"Compare revenue in 2023 with revenue in 2024",en,time_comparison
+Q099,"Total revenue in the first quarter of 2023",en,time_based
+Q100,"How many orders were created last month?",en,time_based

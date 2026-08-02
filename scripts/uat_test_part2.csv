@@ -1,0 +1,46 @@
+id,question,language,category
+PT2-001,Welche 20 Kunden haben im letzten Jahr / im Zeitraum von 02/2022 bis 05/2024 den meisten Umsatz gemacht?,de,Master Data
+PT2-002,Wer sind die Ansprechpartner von Kunde Dieckmann?,de,Master Data
+PT2-003,Welche Kunden haben den Artikel Bio Jasmin Tee 250 gr gekauft?,de,Master Data
+PT2-004,Welche Kunden haben als Zahlungsbedingung Lastschrift vereinbart?,de,Master Data
+PT2-005,Which 5 suppliers had the highest purchasing volume in the last quarter?,en,Master Data
+PT2-006,Which 20 customers generated the highest revenue last year?,en,Master Data
+PT2-007,Who are the contacts for customer Dieckmann?,en,Master Data
+PT2-008,Which customers purchased the item Bio Jasmin Tee 250 gr?,en,Master Data
+PT2-009,Which customers purchased items from product group/subgroup Bildschirm during the last 12 months?,en,Master Data
+PT2-010,Wann wurde der Artikel 24 Zoll Monitor Full-HD zuletzt verkauft und an welchen Kunden?,de,Items/Inventory
+PT2-011,"Liste alle Artikel auf, die sich im Servicelager befinden.",de,Items/Inventory
+PT2-012,Wie hoch ist der Wert aller im Lager befindlichen Artikel aus der Artikelgruppe Elektronik?,de,Items/Inventory
+PT2-013,List all items located in the service warehouse.,en,Items/Inventory
+PT2-014,What is the current inventory level of item 000007?,en,Items/Inventory
+PT2-015,When was item 000010 last sold and to which customer?,en,Items/Inventory
+PT2-016,Which serial numbers are currently available in stock for item 000005?,en,Items/Inventory
+PT2-017,Welche Aufträge wurden letzten Monat abgeschlossen?,de,Sales
+PT2-018,"Gib mir alle Aufträge aus, die länger als einen Monat offen sind.",de,Sales
+PT2-019,Which orders were completed last month?,en,Sales
+PT2-020,List all orders that have been open for more than one month.,en,Sales
+PT2-021,Show all open orders for customer Dieckmann.,en,Sales
+PT2-022,"Gib mir eine Liste aller offenen Bestellungen aus, gruppiert nach Lieferant.",de,Purchasing
+PT2-023,Wie viele Rücklieferungen gab es im letzten Monat?,de,Purchasing
+PT2-024,Wie viele Exemplare des Artikels Bio Minze Tee 250 gr. wurden seit dem letzten Wareneingang verkauft?,de,Purchasing
+PT2-025,Muss ich für den Artikel 24 Zoll Monitor Full-HD eine Nachbestellung auslösen?,de,Purchasing
+PT2-026,Bei welchem Lieferanten war der Artikel Bio Jasmin Tee 250 gr in den letzten 6 Monaten am preiswertesten?,de,Purchasing
+PT2-027,Provide a list of all open purchase orders grouped by supplier.,en,Purchasing
+PT2-028,How many returns to suppliers were made last month?,en,Purchasing
+PT2-029,Which items have a negative inventory balance?,en,Purchasing
+PT2-030,How many units of item 000005 have been sold since the last goods receipt?,en,Purchasing
+PT2-031,Do I need to reorder item 000010?,en,Purchasing
+PT2-032,From which supplier did I most recently order item 000005?,en,Purchasing
+PT2-033,Which supplier offered item 000007 at the lowest price during the last 6 months?,en,Purchasing
+PT2-034,Wie hoch war der Umsatz pro Monat im laufenden Geschäftsjahr? Unser Geschäftsjahr beginnt im April und endet im März.,de,Reports
+PT2-035,Wie hoch ist der Umsatz pro Kostenstelle im letzten Monat?,de,Reports
+PT2-036,Für wie viele Kunden gab es im Monat November 2024 Aufträge mit dem Projekt „Wartung“?,de,Reports
+PT2-037,What was the revenue per cost center last month?,en,Reports
+PT2-038,Which 10 items generated the highest revenue during the period from Feb 2021 to August 2023?,en,Reports
+PT2-039,For how many customers were orders placed for the project “Maintenance” in the month of November 2024?,en,Reports
+PT2-040,Wie viele Stunden abrechenbare Leistungen wurden für Kunden Fa. Lenz AG im Monat Dezember 2024 erbracht?,de,Services
+PT2-041,"Gibt es beim Kunden Fa. Eggers GmbH & Co. KG fakturierbare Leistungen, die noch nicht abgerechnet wurden?",de,Services
+PT2-042,Which employee most recently provided services to customer 000004?,en,Services
+PT2-043,How many billable service hours were provided for customer 000004 in the month of December 2024?,en,Services
+PT2-044,Have all billable services provided for customer 000004 in the month of December 2024 already been invoiced?,en,Services
+PT2-045,Are there any billable services for customer 000007 that have not yet been invoiced?,en,Services
