@@ -9,3 +9,4 @@ PT1-020,"Zeige mir alle offenen Aufträge, deren Wunschtermin bereits überschri
 PT1-022,Show all open orders whose requested delivery date has already passed.,en,Sales
 PT1-032,Do I need to reorder item 24 Zoll Monitor Full-HD?,en,Purchasing
 PT1-044,How many billable service hours were provided for customer Fa. Lenz AG in the month of December 2024?,en,Services
+/Library/Developer/CommandLineTools/usr/bin/python3: Error while finding module specification for 'erp42_analytics.scripts.batch_test_runner' (ModuleNotFoundError: No module named 'erp42_analytics')
