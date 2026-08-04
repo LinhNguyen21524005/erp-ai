@@ -1,0 +1,11 @@
+id,question,language,category
+PT1-001,Wie viele Kunden sind aktuell aktiv?,de,Master Data
+PT1-005,How many customers are currently active?,en,Master Data
+PT1-008,Which customers are managed by employee Neumann Carsten?,en,Master Data
+PT1-009,Which customers purchased the item 000007?,en,Master Data
+PT1-014,What is the current inventory level of item Bio Jasmin Tee 250 gr?,en,Items/Inventory
+PT1-018,Zeige mir alle offenen Aufträge des Kunden Dieckmann.,de,Sales
+PT1-020,"Zeige mir alle offenen Aufträge, deren Wunschtermin bereits überschritten ist.",de,Sales
+PT1-022,Show all open orders whose requested delivery date has already passed.,en,Sales
+PT1-032,Do I need to reorder item 24 Zoll Monitor Full-HD?,en,Purchasing
+PT1-044,How many billable service hours were provided for customer Fa. Lenz AG in the month of December 2024?,en,Services
